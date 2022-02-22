@@ -1,0 +1,12 @@
+{
+  "slime":{
+      "hp":2,
+      "damage":1,
+      "defence":0
+  },
+	"gooblin":{
+		"hp":3,
+		"damage":2,
+		"defence":0
+	}
+}

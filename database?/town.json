@@ -1,0 +1,8 @@
+{
+	"shop":{
+		"actual clothes":{
+			"cost":10,
+			"item-type":"armor"
+		}
+	}
+}
